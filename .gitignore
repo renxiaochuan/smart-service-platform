@@ -1,0 +1,36 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+
+out
+gen
+/*/target/
+/smart-service-eureka-client/mvnw
+/smart-service-eureka-client/.gitignore
+/smart-service-eureka-client/.mvn/
+/.idea/
+/service-ribbon/mvnw.cmd
+/demo/mvnw.cmd
+/service-feign/service-feign.iml
+/demo/mvnw
+/smart-service-eureka-client2/mvnw
+/smart-service-eureka-client2/.mvn/
+/service-ribbon/mvnw
+/smart-service-eureka-client/mvnw.cmd
+/service-feign/.mvn/
+/smart-service-platform.iml
+/service-feign/mvnw.cmd
+/service-feign/mvnw
+/demo/.gitignore
+/service-ribbon/.mvn/
+/demo/demo.iml
+/smart-service-eureka-client2/.gitignore
+/smart-service-eureka-client2/mvnw.cmd
+/smart-service-eureka-service/smart-service-eureka-service.iml
+/service-ribbon/.gitignore
+/service-feign/.gitignore
+/smart-service-eureka-service/target/
