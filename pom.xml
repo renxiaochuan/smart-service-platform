@@ -7,6 +7,12 @@
     <groupId>rxc.springcloud.wservice</groupId>
     <artifactId>smart-service-platform</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <modules>
+        <module>service-feign</module>
+        <module>service-ribbon</module>
+        <module>smart-service-eureka-client</module>
+        <module>smart-service-eureka-client2</module>
+        <module>smart-service-eureka-service</module>
+    </modules>
 
 </project>
