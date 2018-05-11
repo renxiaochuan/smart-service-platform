@@ -34,3 +34,5 @@ gen
 /service-ribbon/.gitignore
 /service-feign/.gitignore
 /smart-service-eureka-service/target/
+/service-zuul/mvnw
+/service-zuul/mvnw.cmd
