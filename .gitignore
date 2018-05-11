@@ -9,9 +9,9 @@
 out
 gen
 /*/target/
-/smart-service-eureka-client/mvnw
+/*/mvnw
 /smart-service-eureka-client/.gitignore
-/smart-service-eureka-client/.mvn/
+/*/.mvn/
 /.idea/
 /service-ribbon/mvnw.cmd
 /demo/mvnw.cmd
@@ -36,3 +36,14 @@ gen
 /smart-service-eureka-service/target/
 /service-zuul/mvnw
 /service-zuul/mvnw.cmd
+/service-zuul/.mvn/
+/service-zuul/.mvn/wrapper/maven-wrapper.properties
+/service-zuul/.mvn/wrapper/maven-wrapper.jar
+/config-service/mvnw
+/config-service/mvnw.cmd
+/config-service/.mvn/wrapper/maven-wrapper.properties
+/config-service/.mvn/wrapper/maven-wrapper.jar
+/config-client/.mvn/wrapper/maven-wrapper.jar
+/config-client/mvnw
+/config-client/mvnw.cmd
+/config-client/.mvn/wrapper/maven-wrapper.properties

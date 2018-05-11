@@ -14,6 +14,8 @@
         <module>smart-service-eureka-client</module>
         <module>smart-service-eureka-client2</module>
         <module>smart-service-eureka-service</module>
+        <module>config-service</module>
+        <module>config-client</module>
     </modules>
 
 </project>
