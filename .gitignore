@@ -47,3 +47,5 @@ gen
 /config-client/mvnw
 /config-client/mvnw.cmd
 /config-client/.mvn/wrapper/maven-wrapper.properties
+/zsport-framework-core/mvnw.cmd
+/zsport-framework-core/.mvn/wrapper/maven-wrapper.jar
